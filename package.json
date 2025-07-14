@@ -23,8 +23,5 @@
     "wrapper"
   ],
   "author": "ZaYn Miraj",
-  "license": "ISC",
-  "dependencies": {
-    "nim-git-cli": "^1.0.0"
-  }
+  "license": "ISC"
 }
