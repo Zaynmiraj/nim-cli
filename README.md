@@ -27,7 +27,7 @@ npm install -g nim-cli
 ## Or, install locally from source:
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:Zaynmiraj/nim-cli.git
 cd nim-cli
 npm install
 npm install -g .
@@ -84,7 +84,7 @@ npm install -g .
 To contribute or modify nim:
 
 ```bash
-git clone git@github.com:Zaynmiraj/nim-cli
+git clone git@github.com:Zaynmiraj/nim-cli.git
 cd nim-cli
 npm install
 node bin/nim.js s
