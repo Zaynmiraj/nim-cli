@@ -17,8 +17,14 @@
     "nim-git-cli",
     "zaynmiraj",
     "nim-cli",
-    "git", "cli", "tool", "wrapper"
+    "git",
+    "cli",
+    "tool",
+    "wrapper"
   ],
   "author": "ZaYn Miraj",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nim-git-cli": "^1.0.0"
+  }
 }
