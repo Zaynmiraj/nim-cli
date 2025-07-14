@@ -1,7 +1,7 @@
 {
   "name": "nim-git-cli",
   "version": "1.0.0",
-  "description": "git cli tools",
+  "description": "nim is a lightweight, fast, and intuitive Git CLI wrapper that simplifies common Git commands with short and memorable aliases. Designed to speed up your workflow, `nim` condenses multiple Git commands into single-line shortcuts, making Git operations more accessible and efficient for developers of all levels.",
   "main": "no",
   "bin": {
     "nim": "bin/index.js"
